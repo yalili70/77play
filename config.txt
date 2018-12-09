@@ -1,6 +1,6 @@
-token=NTA1MDAwODMzMjM1MDI1OTIw.DrNOWw.uK2tZcHnN4Hf3AwLqGe4QUKUPKw
-owner=410421617869455370
-prefix=2
-game=Type 2help
+token=NDkzMTEzMzM5NDk3NTQ1NzQz.Du5GMw.GepQECBEYk-RVwO1RY9dLMjPIP0
+owner=474200581163057153
+prefix=7
+game=Type 7help
 stayinchannel=true
 songinstatus=true
